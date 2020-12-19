@@ -1,0 +1,6 @@
+c:\users\tabish\documents\visual studio 2010\Projects\do-while-factorial\do-while-factorial\bin\Debug\do-while-factorial.exe
+c:\users\tabish\documents\visual studio 2010\Projects\do-while-factorial\do-while-factorial\bin\Debug\do-while-factorial.pdb
+c:\users\tabish\documents\visual studio 2010\Projects\do-while-factorial\do-while-factorial\obj\x86\Debug\do-while-factorial.exe
+c:\users\tabish\documents\visual studio 2010\Projects\do-while-factorial\do-while-factorial\obj\x86\Debug\do-while-factorial.pdb
+C:\Users\Tabish\Desktop\pf lec\do-while-factorial\do-while-factorial\obj\x86\Debug\do-while-factorial.exe
+C:\Users\Tabish\Desktop\pf lec\do-while-factorial\do-while-factorial\obj\x86\Debug\do-while-factorial.pdb
